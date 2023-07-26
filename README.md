@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akashgardas
-- 👀 I’m interested in making projects.
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Interested in solving problems.
+- 🌱 C Prgrammer.
+- 💞️ I would like to join a team.
+- 📫 Twitter: @ProgramAkash
 
 <!---
 akashgardas/akashgardas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
