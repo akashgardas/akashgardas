@@ -6,9 +6,7 @@ I'm a passionate **Java Developer** with experience in **building collaborative 
 
 - 🌱 Currently learning: **Advanced Java along with Web development for current era**
 - 🔭 Working on: **Computing with Java** (Personal Project)
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 📫 How to reach me: **akash39g@gmail.com** | **Github** | **Instagram**
 
 ## My Skills 🧠
 
