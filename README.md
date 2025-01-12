@@ -28,7 +28,7 @@ I'm a passionate **Java Developer** with experience in **building collaborative 
 
 ## Get in Touch 📬
 
-- [**LinkedIn**](www.linkedin.com/in/gardas-akash-66102327b)
+- [**LinkedIn**](https://www.linkedin.com/in/gardas-akash-66102327b/)
 - [**Twitter**](https://x.com/akashgardas)
 - [**Instagram**](https://www.instagram.com/akash.gardas/)
 
