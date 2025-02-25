@@ -8,7 +8,9 @@ I'm a passionate **Java Developer** with experience in **building collaborative 
 - 🔭 Working on: **Computing with Java** (Personal Project)
 - 📫 How to reach me: **akash39g@gmail.com** | **Github** | **Instagram**
 
-## My Skills 🧠
+## My Skills 🎯
+![JAVA](https://github.com/user-attachments/assets/1e552442-f41c-4b89-86c9-c6aa1d8856a5)
+
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
