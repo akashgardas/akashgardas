@@ -2,11 +2,11 @@
 
 ## About Me 🚀
 
-I am an engineering student, java developer, data scientist and exploring technologies.
-I am passionate for innovations in different sectors for better life.
+I am an engineering student @CVR College of Engineering, aspiring to become a Java Developer, and a Data Scientist. Interested in exploring new technologies and building sustainable applications.
+I'm a passionate innovator looking for innovation in renewable energy sectors.
 
-- 🌱 Currently learning: **Advanced Java along with Web development for current era**
-- 🔭 Working on: [**Digial-Arcade**: *A Cognitive Gaming Suite*](https://github.com/akashgardas/Digital-Arcade)
+- 🌱 Currently learning: ****
+- 🔭 Working on: [**Track Your Time**: *Smart Way to Look Up On Your Activities*](https://github.com/akashgardas/Track-Your-Time)
 - 📫 Reach me: **akash39g@gmail.com** | [**Github**](https://github.com/akashgardas/) | [**Instagram**](https://www.instagram.com/akash.gardas/)
 
 ## My Skills 🎯
@@ -22,6 +22,10 @@ I am passionate for innovations in different sectors for better life.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Featured Projects 💻
+### [Track Your Time: *Smart Way to Look Up On Your Activities*](https://github.com/akashgardas/Track-Your-Time)
+Track Your Time is web based project designed and building to provide the functionality of tracking ones daily activities to have a log of acitivites impacting ones productivity.
+
+
 ### [Digital Arcade: *A Cognitive Gaming Suite*](https://github.com/akashgardas/Digital-Arcade)
 **Digital Arcade** is a cognitive gaming suite that offers many different games for stress relief for student and for those who wants to relax. 
 The project is developing in **React** with **TypeScript** and added database.
