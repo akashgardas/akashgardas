@@ -22,7 +22,7 @@ I'm a passionate innovator looking for innovation in renewable energy sectors.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Featured Projects 💻
-### [Track Your Time: *A Smart Way to Review On Your Activities*](https://github.com/akashgardas/Track-Your-Time)
+### [Track Your Time: *A Smart Way to Review Your Activities*](https://github.com/akashgardas/Track-Your-Time)
 Track Your Time is web based project designed and building to provide the functionality of tracking ones daily activities to have a log of acitivites impacting ones productivity.
 
 
