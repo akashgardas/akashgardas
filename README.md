@@ -6,7 +6,7 @@ I am an engineering student @CVR College of Engineering, aspiring to become a Ja
 I'm a passionate innovator looking for innovation in renewable energy sectors.
 
 - 🌱 Currently learning: **Moblie Application Development using Kotlin, BootStrap, JavaScript**
-- 🔭 Working on: [**Track Your Time**: *Smart Way to Look Up On Your Activities*](https://github.com/akashgardas/Track-Your-Time)
+- 🔭 Working on: [**Track Your Time**: *A Smart Way to Review Your Activities*](https://github.com/akashgardas/Track-Your-Time)
 - 📫 Reach me: **akash39g@gmail.com** | [**Github**](https://github.com/akashgardas/) | [**Instagram**](https://www.instagram.com/akash.gardas/)
 
 ## My Skills 🎯
@@ -22,7 +22,7 @@ I'm a passionate innovator looking for innovation in renewable energy sectors.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Featured Projects 💻
-### [Track Your Time: *Smart Way to Look Up On Your Activities*](https://github.com/akashgardas/Track-Your-Time)
+### [Track Your Time: *A Smart Way to Review On Your Activities*](https://github.com/akashgardas/Track-Your-Time)
 Track Your Time is web based project designed and building to provide the functionality of tracking ones daily activities to have a log of acitivites impacting ones productivity.
 
 
