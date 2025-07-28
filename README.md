@@ -5,7 +5,7 @@
 I am an engineering student @CVR College of Engineering, aspiring to become a Java Developer, and a Data Scientist. Interested in exploring new technologies and building sustainable applications.
 I'm a passionate innovator looking for innovation in renewable energy sectors.
 
-- 🌱 Currently learning: ****
+- 🌱 Currently learning: **Moblie Application Development using Kotlin, BootStrap, JavaScript**
 - 🔭 Working on: [**Track Your Time**: *Smart Way to Look Up On Your Activities*](https://github.com/akashgardas/Track-Your-Time)
 - 📫 Reach me: **akash39g@gmail.com** | [**Github**](https://github.com/akashgardas/) | [**Instagram**](https://www.instagram.com/akash.gardas/)
 
