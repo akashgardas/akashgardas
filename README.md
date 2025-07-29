@@ -7,7 +7,7 @@ I'm a passionate innovator looking for innovation in renewable energy sectors.
 
 - 🌱 Currently learning: **Moblie Application Development using Kotlin, BootStrap, JavaScript**
 - 🔭 Working on: [**Track Your Time**: *A Smart Way to Review Your Activities*](https://github.com/akashgardas/Track-Your-Time)
-- 📫 Reach me: **akash39g@gmail.com** | [**Github**](https://github.com/akashgardas/) | [**Instagram**](https://www.instagram.com/akash.gardas/)
+- 📫 Reach me: **akash39g@gmail.com** | [**Github**](https://github.com/akashgardas/) | [**LinkedIn**](https://www.linkedin.com/in/gardas-akash-66102327b/) | [**Instagram**](https://www.instagram.com/akash.gardas/)
 
 ## My Skills 🎯
 ![C](https://img.shields.io/badge/C-blue?style=plastic&logo=c&logoColor=blue&logoSize=auto&labelColor=white)
@@ -25,7 +25,7 @@ I'm a passionate innovator looking for innovation in renewable energy sectors.
 
 ## Featured Projects 💻
 ### [Track Your Time: *A Smart Way to Review Your Activities*](https://github.com/akashgardas/Track-Your-Time)
-Track Your Time is web based project designed and building to provide the functionality of tracking ones daily activities to have a log of acitivites impacting ones productivity.
+Track Your Time is a web-based project designed and building to provide the functionality of tracking daily activities to have a log of acitivites impacting ones productivity.
 
 
 ### [Digital Arcade: *A Cognitive Gaming Suite*](https://github.com/akashgardas/Digital-Arcade)
