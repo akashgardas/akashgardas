@@ -10,16 +10,18 @@ I'm a passionate innovator looking for innovation in renewable energy sectors.
 - 📫 Reach me: **akash39g@gmail.com** | [**Github**](https://github.com/akashgardas/) | [**Instagram**](https://www.instagram.com/akash.gardas/)
 
 ## My Skills 🎯
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-blue?style=plastic&logo=c&logoColor=blue&logoSize=auto&labelColor=white)
+![Python](https://img.shields.io/badge/PYTHON-yellow?style=plastic&logo=python&logoColor=blue&logoSize=auto&labelColor=white)
+![Java](https://img.shields.io/badge/JAVA-orangered?style=plastic&logoSize=auto)
+![Canva](https://img.shields.io/badge/CANVA-%231a04db?style=plastic&logo=canva&logoColor=%231a04db&logoSize=auto&labelColor=white)
+![WordPress](https://img.shields.io/badge/WORDPRESS-%23268dd1?style=plastic&logo=wordpress&logoColor=white&logoSize=auto&labelColor=%23268dd1)
+![HTML5](https://img.shields.io/badge/HTML5-orangered?style=plastic&logo=html5&logoColor=red&logoSize=auto&labelColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-darkblue?style=plastic)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=plastic&logo=javascript&logoColor=white&logoSize=auto&labelColor=yellow)
+![GIT](https://img.shields.io/badge/GIT-orangered?style=plastic&logo=git&logoColor=white&logoSize=auto&labelColor=whtie)
+![GITHUB](https://img.shields.io/badge/GITHUB-black?style=plastic&logo=github&logoColor=white&logoSize=auto&labelColor=whtie)
+![NOTION](https://img.shields.io/badge/NOITON-white?style=plastic&logo=notion&logoColor=black&logoSize=auto&labelColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-yellow?style=plastic&logo=mysql&logoColor=blue&logoSize=auto&labelColor=white)
 
 ## Featured Projects 💻
 ### [Track Your Time: *A Smart Way to Review Your Activities*](https://github.com/akashgardas/Track-Your-Time)
