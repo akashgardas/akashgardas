@@ -7,7 +7,7 @@ I'm a passionate innovator looking for innovation in renewable energy sectors.
 
 - 🌱 Currently learning: **Machine Learning**, **Data Science**, **Moblie Application Development using Kotlin, BootStrap, JavaScript**
 - 🔭 Working on: [**Machine Learning**](https://github.com/akashgardas/Machine-Learning), [**Data Science**](https://github.com/akashgardas/Data-Science), [**Track Your Time**: *A Smart Way to Review Your Activities*](https://github.com/akashgardas/Track-Your-Time)
-- 📫 Reach me: **akash39g@gmail.com** | [**Github**](https://github.com/akashgardas/) | [**LinkedIn**](https://www.linkedin.com/in/gardas-akash-66102327b/) | [**Instagram**](https://www.instagram.com/akash.gardas/)
+- 📫 Reach me: **akash39g@gmail.com** | [**LinkedIn**](https://www.linkedin.com/in/gardas-akash-66102327b/) | [**Instagram**](https://www.instagram.com/akash.gardas/)
 
 ## My Skills 🎯
 ![C](https://img.shields.io/badge/C-blue?style=plastic&logo=c&logoColor=blue&logoSize=auto&labelColor=white)
