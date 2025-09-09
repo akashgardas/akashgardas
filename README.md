@@ -28,15 +28,15 @@ I'm a passionate innovator looking for innovation in renewable energy sectors.
 Track Your Time is a web-based project designed and building to provide the functionality of tracking daily activities to have a log of acitivites impacting ones productivity.
 
 
+### [Data Entry System](https://github.com/akashgardas/Data-Entry-System)
+
+**Data Entry System** is a **Java-based application** built with **MVC architecture**. This project demonstrates my ability to **implement the MVC design pattern, develop user-friendly Swing interfaces, and manage data storage using file-based systems**. You can check out the repository [here](https://github.com/akashgardas/Data-Entry-System).
+
+
 ### [Digital Arcade: *A Cognitive Gaming Suite*](https://github.com/akashgardas/Digital-Arcade)
 **Digital Arcade** is a cognitive gaming suite that offers many different games for stress relief for student and for those who wants to relax. 
 The project is developing in **React** with **TypeScript** and added database.
 You can checkout the repository [here](https://github.com/akashgardas/Digital-Arcade)
-
-
-### [Data Entry System](https://github.com/akashgardas/Data-Entry-System)
-
-**Data Entry System** is a **Java-based application** built with **MVC architecture**. This project demonstrates my ability to **implement the MVC design pattern, develop user-friendly Swing interfaces, and manage data storage using file-based systems**. You can check out the repository [here](https://github.com/akashgardas/Data-Entry-System).
 
 ## Get in Touch 📬
 
