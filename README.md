@@ -3,10 +3,10 @@
 ## About Me 🚀
 
 I am an engineering student @CVR College of Engineering, aspiring to become a Java Developer, and a Data Scientist. Interested in exploring new technologies and building sustainable applications.
-I'm a passionate innovator looking for innovation in renewable energy sectors.
+I am committed to developing scalable solutions that address real-world challenges.
 
-- 🌱 Currently learning: **Machine Learning**, **Data Science**, **Moblie Application Development using Kotlin, BootStrap, JavaScript**
-- 🔭 Working on: [**Machine Learning**](https://github.com/akashgardas/Machine-Learning), [**Data Science**](https://github.com/akashgardas/Data-Science), [**Track Your Time**: *A Smart Way to Review Your Activities*](https://github.com/akashgardas/Track-Your-Time)
+- 🌱 Currently learning: **Deep Learning, NodeJS development**
+- 🔭 Working on: [**Freight Rail Delay Prediction**](https://github.com/akashgardas/freight-rail-delay-prediction/), [**Deep Learning**](https://github.com/akashgardas/Deep-Learning), [**Track Your Time**](https://github.com/akashgardas/Track-Your-Time)
 - 📫 Reach me: **akash39g@gmail.com** | [**LinkedIn**](https://www.linkedin.com/in/gardas-akash-66102327b/) | [**Instagram**](https://www.instagram.com/akash.gardas/)
 
 ## My Skills 🎯
@@ -24,6 +24,9 @@ I'm a passionate innovator looking for innovation in renewable energy sectors.
 ![MYSQL](https://img.shields.io/badge/MYSQL-yellow?style=plastic&logo=mysql&logoColor=blue&logoSize=auto&labelColor=white)
 
 ## Featured Projects 💻
+### [Freight Rail Delay Prediction](https://github.com/akashgardas/freight-rail-delay-prediction)
+Building a short-term arrival delay time prediction system for freight rail operations on real European rail network data, inspired by IEEE Access 2023 research.
+
 ### [Track Your Time: *A Smart Way to Review Your Activities*](https://github.com/akashgardas/Track-Your-Time)
 Track Your Time is a web-based project designed and building to provide the functionality of tracking daily activities to have a log of acitivites impacting ones productivity.
 
@@ -31,12 +34,6 @@ Track Your Time is a web-based project designed and building to provide the func
 ### [Data Entry System](https://github.com/akashgardas/Data-Entry-System)
 
 **Data Entry System** is a **Java-based application** built with **MVC architecture**. This project demonstrates my ability to **implement the MVC design pattern, develop user-friendly Swing interfaces, and manage data storage using file-based systems**. You can check out the repository [here](https://github.com/akashgardas/Data-Entry-System).
-
-
-### [Digital Arcade: *A Cognitive Gaming Suite*](https://github.com/akashgardas/Digital-Arcade)
-**Digital Arcade** is a cognitive gaming suite that offers many different games for stress relief for student and for those who wants to relax. 
-The project is developing in **React** with **TypeScript** and added database.
-You can checkout the repository [here](https://github.com/akashgardas/Digital-Arcade)
 
 ## Get in Touch 📬
 
